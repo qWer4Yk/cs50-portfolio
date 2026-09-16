@@ -51,10 +51,10 @@
 
 ## 📫 Контакты
 
-- **GitHub:** [Ваш Username](https://github.com/ваш_username)
-- **LinkedIn:** [Ссылка]
-- **Telegram:** [@ваш_nick]
-- **Email:** ваш@email.com
+- **GitHub:** [qWer4Yk](https://github.com/qWer4Yk)
+- **LinkedIn:** [@qWer4Yk]
+- **Telegram:** [@CoBecT6]
+- **Email:** dimadomokurov@yandex.ru
 
 ---
 
